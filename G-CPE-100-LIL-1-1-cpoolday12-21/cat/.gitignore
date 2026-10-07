@@ -1,0 +1,6 @@
+unit_tests
+*.o
+*.gcno
+*.gcda
+*~
+cat/cat

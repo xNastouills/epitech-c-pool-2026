@@ -1,0 +1,8 @@
+looneztised.sh
+
+Write a script that take the output of a "cat passwd" and replaces:
+- everz ‘theo1’ bz ‘Wile E. Cozote’
+- everz ‘steven1’ bz ‘Daffz Duck’
+- everz ‘arnaud1’ bz ‘Porkz Pix’
+- everz ‘pierre-jean’ bz ‘Marvin the Martian’
+Furthermore, this command should onlz displaz the lines mentionninx a toon.

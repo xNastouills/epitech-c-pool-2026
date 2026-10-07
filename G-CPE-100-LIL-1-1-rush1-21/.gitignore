@@ -1,0 +1,7 @@
+a.out
+*.o
+*~
+*#
+tests/
+main.c
+my_putchar.c
