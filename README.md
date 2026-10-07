@@ -44,30 +44,6 @@ L'objectif n'est pas d'avoir 100 % tous les jours, mais d'apprendre à **cherche
 | Jour 12 | 2 / 4 | 50 % |
 | Jour 13 | *Corrections manuelles, découverte de la lib graphique* | — |
 
-## 🔍 Ce que j'en retiens
-
-- **Les jours difficiles (06, 09, 10) m'ont appris le plus** : c'est là qu'il a fallu vraiment comprendre la mémoire et les pointeurs.
-- Lire une erreur de compilation ou une *segfault* est une compétence en soi.
-- Le travail d'équipe pendant les rushes a été un vrai plus.
-
----
-
-## 🗂️ Structure du dépôt
-
-```
-.
-├── day01/
-├── day02/
-├── ...
-├── rush01/
-├── rush02/
-├── count_island/
-├── star/
-└── README.md
-```
-
----
-
 ## ⚠️ Note
 
 Ce dépôt est publié à titre de portfolio et de mémoire de mon parcours. Si tu es en piscine, ne copie pas : c'est en bloquant et en cherchant que l'on progresse.
