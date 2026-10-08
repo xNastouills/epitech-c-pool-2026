@@ -11,7 +11,7 @@
 int read_memory(int fd)
 {
     char buffer = [4096];
-    ssize_t = bytes_read; // buffer limite d'octet à la lecture
+    ssize_t = bytes_read;
 
     bytes_read = read(fd, buffer, sizeof(buffer));
     while (bytes_read > 0) {
